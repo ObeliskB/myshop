@@ -605,11 +605,6 @@ video {
   display: block;
 }
 
-.bg-green-50 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(240 253 244 / var(--tw-bg-opacity));
-}
-
 .text-center {
   text-align: center;
 }
@@ -625,11 +620,6 @@ video {
 
 .font-normal {
   font-weight: 400;
-}
-
-.text-orange-700 {
-  --tw-text-opacity: 1;
-  color: rgb(194 65 12 / var(--tw-text-opacity));
 }
 
 .text-orange-500 {
